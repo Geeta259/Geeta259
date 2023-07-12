@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m pursuing MCA from **National Institute of Technology , Raipur**
+- 🔭 I’m currently pursuing MCA from **National Institute of Technology , Raipur**
 
 - 🌱 I’m currently learning **DSA in JAVA.**
 
