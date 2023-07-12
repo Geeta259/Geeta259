@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geeta</h1>
 <h3 align="center">I am Passionate Learner and coding enthusiast.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
