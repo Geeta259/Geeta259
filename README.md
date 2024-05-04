@@ -10,7 +10,7 @@
 
 - 👨‍💻 Checkout my portfolio [https://geeta-portfolio.netlify.app/](https://geeta-portfolio.netlify.app/)
 
-- 📫 Connect me on **geetkiroula@gmail.com**
+- 📫 Connect me on **geetkiroula1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
