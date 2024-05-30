@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Geeta</h1>
-<h3 align="center">I am Passionate Learner and coding enthusiast.</h3>
+<h3 align="center">Passionate Learner || Coding Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing MCA from</br> **National Institute of Technology , Raipur**
+- 🔭 **MCA V Semester** student at NITRR, specializing in Java development.
+- Experienced in creating real-world projects using Spring Boot.
+- Actively enhancing problem-solving skills through daily practice of **DSA in JAVA**, solved over 1000 problems on various platforms.
+- Possesses quick learning abilities and maintains eagerness to explore and work with new technologies.
+- Committed to professional growth and personalized development.
 
-- 🌱 I’m currently learning **DSA in JAVA.**
-
-- 👨‍💻 Checkout my portfolio [https://geeta-portfolio.netlify.app/](https://geeta-portfolio.netlify.app/)
-
+- 👨‍💻 Checkout my portfolio: [https://geeta-portfolio.netlify.app/](https://geeta-portfolio.netlify.app/)
 - 📫 Connect me on **geetkiroula1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
