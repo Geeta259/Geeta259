@@ -3,9 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geeta259" alt="geeta259" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 **MCA V Semester** student at NITRR, specializing in Java development.
 - Experienced in creating real-world projects using Spring Boot.
@@ -15,6 +12,9 @@
 
 - 👨‍💻 Checkout my portfolio: [https://geeta-portfolio.netlify.app/](https://geeta-portfolio.netlify.app/)
 - 📫 Connect me on **geetkiroula1999@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geeta259" alt="geeta259" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
